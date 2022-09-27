@@ -1,7 +1,7 @@
 # RC3563
 Battery Tester, Milliohm Meter, Software
 
-See Wiki https://github.com/ludwich66/RC3563/wiki
+**See Wiki** https://github.com/ludwich66/RC3563/wiki
 
 Github Links:<br>
 Software Python: https://github.com/KrystianD/pyrc3563<br>
