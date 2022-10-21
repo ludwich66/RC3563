@@ -4,4 +4,4 @@
 
 Github Links:<br>
 Python Software: https://github.com/KrystianD/pyrc3563<br>
-Python Software: https://gist.github.com/mgrela/e5e52e22e5d748645bf4d0ebe2c133dd<br>
+Python Software: https://gist.github.com/enkiusz/e5e52e22e5d748645bf4d0ebe2c133dd<br>
